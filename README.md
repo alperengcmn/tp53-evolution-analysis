@@ -32,3 +32,9 @@ Sequence statistics export
 Results are stored in:
 
 results/statistics/sequence_stats.txt
+Pairwise sequence alignment  
+Similarity calculation  
+
+Results are stored in:
+
+results/alignment/alignment_result.txt

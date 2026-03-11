@@ -1,0 +1,2 @@
+Alignment score: 2068.0
+Sequence similarity: 44.59%
