@@ -1,20 +1,26 @@
 # TP53 Comparative Sequence Analysis
 
-This project performs a comparative sequence analysis of the TP53 gene between Human and the Toros Blind Mole Rat. The TP53 gene is a crucial tumor suppressor gene responsible for DNA repair, regulation of the cell cycle and apoptosis.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-Blind mole rats are known for their remarkable cancer resistance, making them an interesting model organism for comparative genomic studies. By comparing the TP53 gene sequences, this project demonstrates basic bioinformatics analysis including sequence statistics, alignment and visualization.
+This project performs a comparative sequence analysis of the TP53 gene between Human and the Toros Blind Mole Rat.
+
+The TP53 gene is a critical tumor suppressor gene involved in DNA repair, cell cycle regulation and apoptosis. Blind mole rats are known for their remarkable cancer resistance, making them a valuable model organism for comparative genomic studies.
+
+The aim of this project is to demonstrate a simple bioinformatics pipeline including sequence statistics, alignment and visualization using Python.
 
 ---
 
-# Pipeline
+# Bioinformatics Pipeline
 
 NCBI Database  
 ↓  
 Sequence Download (FASTA)  
 ↓  
-FASTA Quality Check  
+FASTA Quality Control  
 ↓  
-Sequence Parsing using Python  
+Sequence Parsing with Python  
 ↓  
 Sequence Length Analysis  
 ↓  
@@ -22,13 +28,13 @@ GC Content Calculation
 ↓  
 Pairwise Sequence Alignment  
 ↓  
-Similarity Analysis  
+Similarity Calculation  
 ↓  
 Data Visualization  
 
 ---
 
-# Tools
+# Tools and Technologies
 
 Python  
 BioPython  
@@ -79,8 +85,10 @@ tp53-evolution-analysis
 
 # Results
 
-Sequence statistics including sequence length and GC content were calculated for both TP53 genes.  
-Pairwise alignment was performed to evaluate sequence similarity between the species.  
+Sequence statistics including sequence length and GC content were calculated for both TP53 genes.
+
+Pairwise alignment was performed to estimate sequence similarity between the two species.
+
 Visualization scripts generated graphical comparisons of sequence length and GC content.
 
 ---
