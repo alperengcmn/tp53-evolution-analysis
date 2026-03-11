@@ -56,30 +56,34 @@ Format: FASTA
 
 ---
 
-# Project Structure
+## Project Structure
+
+```
 tp53-evolution-analysis
 │
 ├── data
-│ └── raw
-│ ├── human_tp53.fasta
-│ └── mole_rat_tp53.fasta
+│   └── raw
+│       ├── human_tp53.fasta
+│       └── mole_rat_tp53.fasta
 │
 ├── scripts
-│ ├── sequence_analysis.py
-│ ├── alignment_analysis.py
-│ └── visualization.py
+│   ├── sequence_analysis.py
+│   ├── alignment_analysis.py
+│   └── visualization.py
 │
 ├── results
-│ ├── statistics
-│ │ └── sequence_stats.txt
-│ └── alignment
-│ └── alignment_result.txt
+│   ├── statistics
+│   │   └── sequence_stats.txt
+│   │
+│   └── alignment
+│       └── alignment_result.txt
 │
 ├── docs
-│ ├── sequence_length.png
-│ └── gc_content.png
+│   ├── sequence_length.png
+│   └── gc_content.png
 │
 └── README.md
+```
 
 ---
 
