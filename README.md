@@ -24,3 +24,11 @@ Toros Blind Mole Rat TP53 gene
 Python  
 BioPython  
 NCBI database
+FASTA parsing using Python  
+Sequence length calculation  
+GC content analysis  
+Sequence statistics export  
+
+Results are stored in:
+
+results/statistics/sequence_stats.txt
