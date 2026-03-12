@@ -97,7 +97,7 @@ Visualization scripts generated graphical comparisons of sequence length and GC 
 
 ---
 
-# Author
+# 👨🏻‍💻Author
 
 Alperen Göçmen  
 Bioinformatics Student
